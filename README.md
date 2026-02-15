@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Melly</h1>
-<h3 align="center">Full-Stack Developer | Tech Enthusiast | Building Mellofy 🎵</h3>
+<h3 align="center">Full-Stack Developer | Tech Enthusiast </h3>
 
 <p align="center">
   <a href="https://github.com/Brianmelly01">
@@ -15,7 +15,7 @@
 - 🎵 Currently building **Mellofy** – a music streaming platform  
 - 🌱 Learning **TypeScript & Advanced Backend Systems**  
 - 🔥 113+ contributions in the last year  
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **Brianmelly008@gmail.com**
 - 🌍 Based in Kenya  
 
 ---
@@ -93,7 +93,7 @@ Tool to generate professional GitHub README files using React & Tailwind.
 <a href="https://twitter.com/yourprofile" target="blank">
 <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:Brianmelly008@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
